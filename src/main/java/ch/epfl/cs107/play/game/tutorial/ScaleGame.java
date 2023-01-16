@@ -1,7 +1,6 @@
 package ch.epfl.cs107.play.game.tutorial;
 
-import com.sun.glass.events.KeyEvent;
-import com.sun.prism.paint.Color;
+import java.awt.event.KeyEvent;
 
 import ch.epfl.cs107.play.game.Game;
 import ch.epfl.cs107.play.game.actor.ImageGraphics;

@@ -2,7 +2,7 @@ package ch.epfl.cs107.play.game.tutorial;
 
 import java.awt.Color;
 
-import com.sun.glass.events.KeyEvent;
+import java.awt.event.KeyEvent;
 
 
 import ch.epfl.cs107.play.game.Game;

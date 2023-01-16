@@ -2,7 +2,6 @@ package ch.epfl.cs107.play.game.actor.bike;
 
 import java.awt.Color;
 
-import com.sun.prism.Image;
 
 import ch.epfl.cs107.play.game.actor.Graphics;
 import ch.epfl.cs107.play.game.actor.ImageGraphics;
